@@ -1,0 +1,5 @@
+# temporary directory
+tmp/
+
+# hidden directories
+.*/
