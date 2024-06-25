@@ -1,0 +1,78 @@
+For size=10000:
+edge generation took 3 ms
+tree generation took 8 ms
+metric computation took 4 ms
+In total took 16 ms
+
+For size=20000:
+edge generation took 7 ms
+tree generation took 13 ms
+metric computation took 8 ms
+In total took 29 ms
+
+For size=40000:
+edge generation took 11 ms
+tree generation took 25 ms
+metric computation took 17 ms
+In total took 54 ms
+
+For size=80000:
+edge generation took 21 ms
+tree generation took 49 ms
+metric computation took 36 ms
+In total took 107 ms
+
+For size=160000:
+edge generation took 41 ms
+tree generation took 99 ms
+metric computation took 86 ms
+In total took 227 ms
+
+For size=320000:
+edge generation took 82 ms
+tree generation took 201 ms
+metric computation took 204 ms
+In total took 488 ms
+
+For size=640000:
+edge generation took 168 ms
+tree generation took 411 ms
+metric computation took 435 ms
+In total took 1015 ms
+
+For size=1280000:
+edge generation took 341 ms
+tree generation took 837 ms
+metric computation took 906 ms
+In total took 2084 ms
+
+For size=2560000:
+edge generation took 696 ms
+tree generation took 1695 ms
+metric computation took 1898 ms
+In total took 4290 ms
+
+For size=5120000:
+edge generation took 1516 ms
+tree generation took 3391 ms
+metric computation took 3955 ms
+In total took 8863 ms
+
+For size=10240000:
+edge generation took 4231 ms
+tree generation took 6973 ms
+metric computation took 8081 ms
+In total took 19286 ms
+
+For size=20480000:
+edge generation took 9265 ms
+tree generation took 14053 ms
+metric computation took 17967 ms
+In total took 41287 ms
+
+For size=40960000:
+edge generation took 20164 ms
+tree generation took 28907 ms
+metric computation took 39152 ms
+In total took 88224 ms
+
